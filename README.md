@@ -4,7 +4,7 @@ Press enter to start a new game.
 
 It is a 2-player game. In order to win, each player needs to own 3 neighboring cells.
 
-When their turn happens,a player needs to type
+When their turn happens, a player needs to type
 the number of the cell they want to own,
 from 1 (bottom-left), to 9 (top-right) :
  7|8|9   
