@@ -1,6 +1,6 @@
 # Tic-tac-toe
 
-Press enter to stat a new game.
+Press enter to stast a new game.
 
 When their turn happens,each of the two players needs to type
 the number of the cell they want to play,
