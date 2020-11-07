@@ -1,8 +1,10 @@
 # Tic-tac-toe
 
-Press enter to stast a new game.
+Press enter to start a new game.
 
-When their turn happens,each of the two players needs to type
+It is a 2 players game. Each player want to own 3 neigboring cells.
+
+When their turn happens,a player needs to type
 the number of the cell they want to play,
 from 1 (bottom-left), to 9 (top-right) :
  7|8|9   
