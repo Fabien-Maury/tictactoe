@@ -8,7 +8,6 @@ from 1 (bottom-left), to 9 (top-right) :
  7|8|9   
 --|-|--
  4|5|6   
---|-|--
  1|2|3 
  
  The game ends when one of the two players owns 3 neighboring cells,
